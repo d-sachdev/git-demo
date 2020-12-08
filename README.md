@@ -2,8 +2,6 @@
 
 This is the first file in this repo. 
 
-## Ipsum Below
+## Website Contents
 
-This is a continuation of the Git Going Fast crash course.
-
-Some more text. 
+1. index.html
